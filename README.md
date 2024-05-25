@@ -20,9 +20,9 @@ This is basic example. Can be adjusted according to the environment of the tool
 # Q2. How to change docker-compose file to kubernetes
 1. Map "docker-compose" file to the "kubernetes manifest" by mannual (เคยทำแค่ 1-2 ครั้ง)
 ตัวอย่าง:
-docker-compose
+### docker-compose
 ![Local Image](img/docker-compose.png)
-kubernetes
+### kubernetes
 ![Local Image](img/deployment-kube1.png)
 ![Local Image](img/service-kube.png)
 2. Using tools that kube recommend (ยังไม่เคยทำ)
