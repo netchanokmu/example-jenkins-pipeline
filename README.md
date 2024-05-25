@@ -4,7 +4,7 @@ This is basic example. Can be adjusted according to the environment of the tool
 
 ## Step 1: Create pipeline in jenkins
 ![Local Image](img/create-pipeline.png)
-## Step 2: In config page, scroll mouse to pipeline topic and click 'Save' button
+## Step 2: In config page, scroll mouse to pipeline topic, config it and click 'Save' button
 ![Local Image](img/config-1.png)
 ![Local Image](img/config-2.png)
 ## Step 3: Build pipeline and view console output
