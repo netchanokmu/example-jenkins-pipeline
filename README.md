@@ -30,3 +30,5 @@ This is basic example. Can be adjusted according to the environment of the tool
 ### 2.2 https://loft.sh/blog/docker-compose-to-kubernetes-step-by-step-migration/
 
 Kubernetes Vs Docker Compose: https://k21academy.com/docker-kubernetes/docker-compose-vs-kubernetes/
+
+** ถ้าจะใช้ kube ต้องศึกษาความรู้ kube เพิ่มเติมด้วยน้า เพราะเป็นเรื่องที่เยอะพอสมควร**
