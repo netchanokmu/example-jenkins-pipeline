@@ -18,14 +18,14 @@ This is basic example. Can be adjusted according to the environment of the tool
 ![Local Image](img/result.png)
 
 # Q2. How to change docker-compose file to kubernetes
-## 1. Map "docker-compose" file to the "kubernetes manifest" by manual (เคยทำแค่ 1-2 ครั้ง)
+## Method 1. Map "docker-compose" file to the "kubernetes manifest" by manual (เคยทำแค่ 1-2 ครั้ง)
 ตัวอย่าง:
 ### docker-compose
 ![Local Image](img/docker-compose.png)
 ### kubernetes
 ![Local Image](img/deployment-kube1.png)
 ![Local Image](img/service-kube.png)
-## 2. Using tools that kube recommend (ยังไม่เคยทำ)
+## Method 2. Using tools that kube recommend (ยังไม่เคยทำ)
 ### 2.1 https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/
 ### 2.2 https://loft.sh/blog/docker-compose-to-kubernetes-step-by-step-migration/
 
