@@ -18,7 +18,7 @@ This is basic example. Can be adjusted according to the environment of the tool
 ![Local Image](img/result.png)
 
 # Q2. How to change docker-compose file to kubernetes
-1. Map "docker-compose" file to the "kubernetes manifest" by mannual (เคยทำแค่ 1-2 ครั้ง)
+1. Map "docker-compose" file to the "kubernetes manifest" by manual (เคยทำแค่ 1-2 ครั้ง)
 ตัวอย่าง:
 ### docker-compose
 ![Local Image](img/docker-compose.png)
