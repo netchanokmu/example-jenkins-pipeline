@@ -17,12 +17,15 @@ pipeline {
         }
         }
 
-        // stage('Deploy to Kubernetes') {
-        //       agent any
-        //       steps {
-        //         sh 'kubectl apply -f deployment.yaml'
-        //       }
-        //   }
+        stage('Deploy to Kubernetes') {
+              agent any
+              steps {
+                // คำสั่งเทสเฉยๆ
+                sh 'kubectl version --client' 
+                // คำสั่ง deploy ที่แท้จริง 
+                // sh 'kubectl apply -f deployment.yaml' 
+              }
+          }
     }
 }
   
